@@ -8,3 +8,4 @@ Also, they are using different dialects, such as:
  MS SQL Server using T-SQL,
  Oracle using PL/SQL,
  MS Access version of SQL is called JET SQL (native format) etc.
+This is how is it on all about SQL
